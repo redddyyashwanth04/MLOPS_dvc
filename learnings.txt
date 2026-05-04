@@ -1,0 +1,2 @@
+data.dvc is a versioned pointer file that allows Git to track datasets 
+indirectly while DVC manages the actual data storage.
